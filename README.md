@@ -1,3 +1,4 @@
 # Internship-Tasks
 ## Task 1 - Foodeology design
-![Screenshot from 2022-05-13 15-31-53](https://user-images.githubusercontent.com/42358866/168255372-56cf18ac-1982-4d6d-be9a-014bbee58e02.png)
+
+![Screenshot from 2022-05-15 13-17-01](https://user-images.githubusercontent.com/42358866/168461751-f0cdc703-fa38-42be-b2fd-bf6d00e043ce.png)
