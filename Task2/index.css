@@ -1,0 +1,58 @@
+/* .progress p{
+    text-align: center;
+}
+.progress ul li{
+    display: inline-block;
+    width: 50px;
+} */
+.row-hover {
+    --bs-table-accent-bg: red;
+}
+
+.pic {
+    height: 40px;
+    width: 40px;
+    background-color: rgb(221, 206, 206);
+    margin-left: 10px;
+}
+
+.names {
+    text-align: left;
+
+}
+
+.prog-bar .line-spacing {
+    line-height: 5px;
+}
+
+.prog-bar ul{
+    list-style: none;
+}
+.prog-bar ul li{
+    width: 130px;
+}
+.prog-bar ul li .fas{
+    background-color: rgb(115, 255, 115);
+    border-radius: 20px;
+    padding: 6px;
+}
+
+.prog-bar ul li .fas::after{
+    content: '';
+    background: rgb(115, 255, 115);
+    height: 3px;
+    width: 150px;
+    position: absolute;
+    display: flex;
+    top: 156px;
+    z-index: -1;
+}
+.prog-bar ul li:nth-child(3) .fas::after{
+    background-color: rgb(188, 188, 188);
+}
+.prog-bar ul li:nth-child(4) .fas::after{
+    background-color: rgb(188, 188, 188);
+}
+.prog-bar ul li:last-child .fas::after{
+    left: 450px;
+}
